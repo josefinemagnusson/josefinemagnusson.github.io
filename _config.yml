@@ -23,7 +23,7 @@ repository               : "josefinemagnusson/josefinemagnusson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Josefine Magnusson"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Political Science"
