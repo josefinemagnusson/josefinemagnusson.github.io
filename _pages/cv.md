@@ -44,6 +44,15 @@ Lungu, L. & Magnusson, J. Factual belief polarization among the electorate durin
 
 Magnusson, J. Do Supporters Follow? Voter Constraints on Elite Influence in Unexpected Coalition Announcements.
 
+### Work in Progress
+
+Magnusson, J. Beyond Backlash: How Out-party Cues Influence Citizens' Attitudes in Multiparty Systems.
+
+Magnusson, J., & Schwenk, J. Gendered Cue-Taking: How Men and Women Respond Differently to Party Signals.
+
+Lungu, L. & Magnusson, J. The moderating role of in-party affect on the partisan gap in factual beliefs.
+
+
 ---
 
 ## Recent Conference Presentations
@@ -82,3 +91,29 @@ Presented at the Nordic Political Science Association Conference, 2024 in Bergen
 | Regression Analysis II: Linear Models. ICPSR summer school, Ann Arbor, US | 2023 |
 | Advanced Survey Data Analysis and Survey Experiments, with Yanna Krupnikov. Essex Summer School in Social Data Analysis | 2022 |
 | Lab experiments, with Steffen Kallbekken (CICERO). Gothenburg University | 2022 |
+
+---
+
+## Research Experience
+
+- Research assistant, Department of Political Science, University of Gothenburg. Project: *Political attitudes and behaviors of residents living in disadvantaged neighborhoods*. PI: Peter Esaiasson. &ensp; 2021
+
+- Research assistant, Department of Political Science, University of Gothenburg. Project: *Gender Equality in political representation – Learning from 100 years of Swedish experience*. PI: Johanna Rickne. &ensp; 2020–2021
+
+- Research assistant, Society, Opinion and Media Institute (SOM-Institute). &ensp; 2020–2021
+
+---
+
+## Grants
+
+| | Year |
+|---|---|
+| SNES, travel grant | 2024 |
+| Adlerbertska forskningsstiftelse, data collection | 2023 |
+| Helge Ax:son, data collection | 2023 |
+| Sixtén Gemseus och Gålö stiftelsen, summer school participation Ann Arbor, USA | 2023 |
+| Lars Hiertas Minne, travel grant | 2023 |
+| Adlerbertska Stipendiestiftelse, travel grant | 2022 |
+| Wilhelm och Martina Lundgrens Stiftelser, travel grant for Summer School(s) | 2022, 2023 |
+| Filosofiska Fakultetens Donationsstipendium | 2022 |
+
