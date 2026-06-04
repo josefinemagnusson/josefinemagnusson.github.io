@@ -105,6 +105,7 @@ Research assistant, Society, Opinion and Media Institute (SOM-Institute). &ensp;
 
 ## Grants
 
+CERGU, travel grant &ensp; 2024 
 SNES, travel grant &ensp; 2024  
 Adlerbertska forskningsstiftelse, data collection &ensp; 2023  
 Helge Ax:son, data collection &ensp; 2023  
