@@ -44,19 +44,16 @@ Cassel, S., Magnusson, J., & Lundmark, S. (2022). The impact of presentation for
 
 Magnusson, J. & Wärnlöf B., K. (2019). Kultur hit och kultur dit? I Carlander, A., Öhberg, P. & Mellander, E. (red) *Ingen kommer undan kulturen*. Göteborgs Universitet: SOM-institutet.
 
-**Under Review**
+**Working Papersw**
 
 Magnusson, J. Conflict by Default: How Political Information Environments Shape Party Cue Effects.
 
 Magnusson, J., & Agerberg, M. The nature of party cues: a theoretical and empirical investigation.
 
-Magnusson, J., & Xezonakis, G. Vote choice trade-offs: Experimental evidence on valence and positional considerations in Sweden.
-
-**Soon to be Submitted**
+Magnusson, J. Do Supporters Follow? Voter Constraints on Elite Influence in Unexpected Coalition Announcements.
 
 Lungu, L. & Magnusson, J. Factual belief polarization among the electorate during times of low and high political competition.
 
-Magnusson, J. Do Supporters Follow? Voter Constraints on Elite Influence in Unexpected Coalition Announcements.
 
 **Work in Progress**
 
@@ -65,6 +62,9 @@ Magnusson, J. Beyond Backlash: How Out-party Cues Influence Citizens' Attitudes 
 Magnusson, J., & Schwenk, J. Gendered Cue-Taking: How Men and Women Respond Differently to Party Signals.
 
 Lungu, L. & Magnusson, J. The moderating role of in-party affect on the partisan gap in factual beliefs.
+
+Magnusson, J., & Xezonakis, G. Vote choice trade-offs: Experimental evidence on valence and positional considerations in Sweden.
+
 
 ---
 
@@ -77,6 +77,10 @@ Presented at M2P Workshop, Antwerp University, Belgium. &ensp; October 2024
 Presented at the European Political Science Association (EPSA) conference, Cologne, Germany. &ensp; July 2024
 
 Presented at the Nordic Political Science Association Conference, Bergen, Norway. &ensp; June 2024
+
+Presented at the 80th Annual Midwest Political Science Association Conference (MPSA), Chicago, USA. 
+
+Presented at the Kongress der Deutschen Gesellschaft fur Soziologie (DGS)
 
 ---
 
