@@ -99,3 +99,4 @@ DOI: 10.12758/mda.2022.03
 
 ## Book Chapters
 
+Magnusson, J. & Wärnlöf B., K. (2019). Kultur hit och kultur dit? I Carlander, A., Öhberg, P. & Mellander, E. (red) *Ingen kommer undan kulturen*. Göteborgs Universitet: SOM-institutet.
