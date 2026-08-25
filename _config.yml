@@ -359,3 +359,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# The home page has no front-matter title on purpose, so that <title> falls back
+# to site.title. Without this, jekyll-titles-from-headings (enabled by default on
+# GitHub Pages) infers it from the first heading instead.
+titles_from_headings:
+  enabled: false
