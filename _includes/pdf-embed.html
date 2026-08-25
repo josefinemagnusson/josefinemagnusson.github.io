@@ -1,0 +1,30 @@
+{% comment %}
+  Embeds a PDF that is built by .github/workflows/build-pdfs.yml.
+  Usage: {% include pdf-embed.html file="/files/cv.pdf" label="CV" %}
+  If the PDF has not been built yet the block is skipped rather than
+  rendering a broken viewer.
+{% endcomment %}
+{% include base_path %}
+
+{% assign pdf = false %}
+{% for static_file in site.static_files %}
+  {% if static_file.path == include.file %}{% assign pdf = static_file %}{% endif %}
+{% endfor %}
+
+{% if pdf %}
+<p>
+  <a href="{{ base_path }}{{ include.file }}" class="btn btn--primary">Download {{ include.label }} (PDF)</a>
+  <span class="pdf-embed__meta">Last updated {{ pdf.modified_time | date: "%B %Y" }}</span>
+</p>
+
+<object class="pdf-embed" data="{{ base_path }}{{ include.file }}" type="application/pdf">
+  <p>Your browser cannot display PDFs inline.
+     <a href="{{ base_path }}{{ include.file }}">Download the {{ include.label }}</a> instead.</p>
+</object>
+
+<style>
+  .pdf-embed { width: 100%; aspect-ratio: 1 / 1.414; border: 1px solid #e6e6e6; }
+  .pdf-embed__meta { font-size: 0.75em; color: #7a8288; margin-left: 0.5em; }
+  @media (max-width: 600px) { .pdf-embed { display: none; } }
+</style>
+{% endif %}

@@ -1,0 +1,43 @@
+# Compiles every LaTeX document in tex/ and commits the resulting PDFs to
+# files/, so the website always serves the PDF built from the current source.
+# Update the CV by editing tex/cv.tex -- no local LaTeX installation needed.
+name: Build PDFs
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'tex/**'
+      - '.github/workflows/build-pdfs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile LaTeX documents
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: 'tex/*.tex'
+          work_in_root_file_dir: true
+
+      - name: Publish PDFs to files/
+        run: |
+          mkdir -p files
+          mv tex/cv.pdf files/cv.pdf
+          if [ -f tex/teaching_portfolio.pdf ]; then
+            mv tex/teaching_portfolio.pdf files/teaching-portfolio.pdf
+          fi
+
+      - name: Commit rebuilt PDFs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add files/*.pdf
+          git diff --staged --quiet || git commit -m "Rebuild PDFs from LaTeX sources"
+          git push

@@ -1,0 +1,102 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{academiccv}[2026/08/13 Shared style for CV and Teaching Portfolio]
+
+% ---------------------------------------------------------------------------
+% Shared style used by both cv.tex and teaching_portfolio.tex so the two
+% documents look identical. Change colors / fonts / spacing here ONCE and
+% both documents update.
+% ---------------------------------------------------------------------------
+
+\RequirePackage[a4paper,left=2cm,right=2cm,top=1.8cm,bottom=1.8cm]{geometry}
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{lmodern}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome5}
+\RequirePackage{etoolbox}
+\RequirePackage{enumitem}
+\RequirePackage{titlesec}
+\RequirePackage{parskip}
+\RequirePackage{ragged2e}
+\RequirePackage[hidelinks]{hyperref}
+
+% ---- Palette (edit to taste) ----
+\definecolor{cvaccent}{HTML}{2F4858}   % headings, name
+\definecolor{cvmuted}{HTML}{6B7280}    % dates, secondary text
+\definecolor{cvrule}{HTML}{D9DCE1}     % thin rules
+\definecolor{cvtext}{HTML}{1F2328}     % body text
+\definecolor{cvtodo}{HTML}{B45309}     % amber, marks placeholder text to fill in
+\color{cvtext}
+
+% ---- Placeholder marker: \todo{note to yourself} renders in amber italics ----
+\newcommand{\todo}[1]{{\color{cvtodo}\itshape [#1]}}
+
+\setlength{\parindent}{0pt}
+\urlstyle{same}
+
+% ---- Section headings ----
+\titleformat{\section}{\Large\bfseries\color{cvaccent}}{}{0em}{}
+\titlespacing{\section}{0pt}{1.4em}{0.5em}
+
+\newcommand{\cvsection}[1]{%
+  \section*{#1}%
+  {\color{cvrule}\hrule height 0.6pt}%
+  \vspace{0.6em}%
+}
+
+% ---- Entries: \cventry{Title}{Organization}{Dates}{Description} ----
+% Any argument can be left empty, e.g. \cventry{Visiting Researcher}{Univ of X}{2024}{}
+\newcommand{\cventry}[4]{%
+  \noindent{\bfseries #1}\ifblank{#2}{}{\space--- #2}\hfill{\color{cvmuted}#3}\par
+  \ifblank{#4}{}{{\small\itshape #4}\par}%
+  \vspace{0.55em}%
+}
+
+% ---- Hanging-indent block for a publication entry (no bullet) ----
+\newcommand{\cvlistpub}[1]{%
+  \par\noindent\hangindent=1.1em\hangafter=1 #1\par\vspace{0.45em}%
+}
+
+% ---- Short anonymized testimonial / evaluation quote ----
+\newcommand{\studentquote}[1]{%
+  \begin{quote}
+    \small\itshape\color{cvmuted}``#1''
+  \end{quote}
+}
+
+% ---- Tight bullet list for entry details ----
+\newenvironment{cvlist}{%
+  \begin{itemize}[leftmargin=1.1em,itemsep=2pt,topsep=2pt,parsep=0pt]
+}{%
+  \end{itemize}
+}
+
+% ---- Sidebar geometry ----
+\newlength{\sidebarwidth}
+\setlength{\sidebarwidth}{4.1cm}
+\newlength{\maincolwidth}
+% \textwidth is only finalized by geometry at \begin{document}, so compute
+% this then rather than during package load (would otherwise use a stale
+% default \textwidth and make the main column the wrong size).
+\AtBeginDocument{\setlength{\maincolwidth}{\dimexpr\textwidth-\sidebarwidth-1cm\relax}}
+
+% ---- One contact/social link line with an icon ----
+% \sidebarlink{\faIcon-command}{label text}{url}
+\newcommand{\sidebarlink}[3]{%
+  {\small #1~\href{#3}{#2}}\par\vspace{3pt}%
+}
+
+% ---- Full sidebar block: name, pronouns, role line, contact links ----
+% #1 name, #2 pronouns, #3 role/title (can span lines),
+% #4 raw LaTeX for the \sidebarlink lines
+\newcommand{\profilesidebar}[4]{%
+  \begin{minipage}[t]{\sidebarwidth}
+    \RaggedRight
+    {\large\bfseries\color{cvaccent} #1}\par\vspace{2pt}
+    \ifblank{#2}{}{{\small\color{cvmuted} #2}\par\vspace{6pt}}
+    {\small #3}\par\vspace{10pt}
+    #4
+  \end{minipage}%
+}
+
+\endinput
