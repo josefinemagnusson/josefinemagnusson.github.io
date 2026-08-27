@@ -88,12 +88,12 @@ With: A. Bawati, M. F. Gruneau, and J. Rickne
 **The impact of presentation format on conjoint designs: A replication and an extension**  
 *Method, Data, Analysis*, 2022  
 With: S. Cassel and S. Lundmark  
-DOI: 10.12758/mda.2022.03
+[https://doi.org/10.12758/mda.2022.03](https://doi.org/10.12758/mda.2022.03)
 
 <details>
 <summary>[Abstract]</summary>
 <br>
-<em>Add abstract here.</em>
+<em>In recent years, conjoint experiments have been in vogue across the social sciences. A reason for the conjoint experiments’ popularity is that they allow researchers to estimate the causal effects of many components of stimuli simultaneously. However, for conjoint experiments to produce valid results, respondents need to be able to process and understand the wide range of dimensions presented to them in the experiment. If the information processing is too demanding or too complicated, respondents are likely to turn to satisficing strategies, leading to poorer data quality and subsequently decreasing the researcher’s ability to make accurate causal inferences. One factor that may lead to the adoption of satisficing strategies is the presentation format used for the conjoint experiment (i.e., presenting the information within a text paragraph or a table). In the present paper, a direct replication of the single conjoint presentation format experiment described in Shamon, Dülmer, and Giza’s (2019) paper in Sociological Methods &amp; Research is presented, and extending their work to paired conjoint experiment. The results of the direct replication showed that respondents evaluated the questionnaire more favorably when reading the table format but were, on the other hand, less likely to participate in subsequent panel waves. Albeit the number of break-offs, refusals, and non-responses did not differ between the two formats, respondents who saw the table format evaluated the scenarios with more consistency and less dimension reduction, thus favoring the table presentation format. For paired conjoint experiments, the presentation format did not affect survey evaluations or panel participation but the table format heavily outperformed the text format on every data quality measure except for dimension reduction. Conceptually, albeit not directly replicating the findings in Shamon, Dülmer, and Giza (2019), the present manuscript concludes that the table format appears preferable over the text format for conjoint experimental designs.</em>
 </details>
 
 ---
