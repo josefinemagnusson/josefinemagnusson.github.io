@@ -6,57 +6,6 @@ author_profile: true
 
 ---
 
-## Working Papers
-
-**Conflict by Default: How Political Information Environments Shape Party Cue Effects**  
-*Under review*
-
-<details>
-<summary>[Abstract]</summary>
-<br>
-<em>Party cues are a well-established heuristic through which citizens navigate political life. Yet whether party cues signal conflict or consensus has received surprisingly little attention. This letter addresses this gap, leveraging a survey experiment manipulating conflict and consensus across four policy proposals among UK Labour and Conservative identifiers. In-party cues shift policy support under all conditions, but effects are consistently stronger under conflict. Notably, a single in-party cue produces effects comparable to explicit conflict, suggesting conflict may be the default citizens assume even when not explicitly stated. Analysis of open-ended responses reinforces this: conflict reasoning is pervasive across conditions, while consensus reasoning emerges almost exclusively when cross-party agreement is made explicit. Conflictual cues elicit more partisan reasoning while consensus cues shift attention toward policy substance. These findings have implications for how we design cue experiments and for the democratic role of parties as a source of political information.</em>
-</details>
-
----
-
-**When Rivals Become Partners: Elite influence and its constraints in unexpected coalition announcements**  
-*Soon to be submitted*
-
-<details>
-<summary>[Abstract]</summary>
-<br>
-<em>Unexpected and unorthodox coalition formations are increasingly common in multiparty democracies. Yet we know little about how party supporters react to these coalitions, or how much influence political elites have in shaping those reactions. This study treats coalition announcements as elite signals, akin to party cues, and examines the reach and limits of elite influence. Leveraging real-world cases of unexpected coalition formation in the UK and Austria, I use quasi-experimental methods to estimate the short-term effects of coalition signals. Coalition signals significantly reshape supporters’ evaluations of new partners, but within limits. Parties rarely produce fundamental attitude changes, effects are weaker among supporters who previously disliked the new coalition partner, and coalition signals may generate immediate affective costs for supporters’ own parties. These findings show that parties have meaningful leeway in redefining political alliances, but that this leeway is constrained by supporters’ prior attitudes and affective backlash.</em>
-</details>
-
-
----
-
-## Work in Progress
-
-**Beyond Backlash: How Out-party Cues Influence Citizens' Attitudes in Multiparty Systems**  
-*In preparation*
-
----
-
-**Gendered Cue-Taking: How Men and Women Respond Differently to Party Signals**  
-*In preparation*  
-With: J. Schwenk
-
----
-
-**The moderating role of in-party affect on the partisan gap in factual beliefs**  
-*In preparation*  
-With: L. Lungu
-
----
-
-**Factual belief polarization among the electorate during times of low and high political competition**  
-*In preparation*  
-With: L. Lungu
-
-
----
-
 ## Publications
 
 **The nature of party cues: A theoretical and empirical investigation**  
@@ -101,3 +50,52 @@ With: S. Cassel and S. Lundmark
 ## Book Chapters
 
 Magnusson, J. & Wärnlöf B., K. (2019). Kultur hit och kultur dit? I Carlander, A., Öhberg, P. & Mellander, E. (red) *Ingen kommer undan kulturen*. Göteborgs Universitet: SOM-institutet.
+
+---
+
+## Working Papers
+
+**Conflict by Default: How Political Information Environments Shape Party Cue Effects**  
+*Under review*
+
+<details>
+<summary>[Abstract]</summary>
+<br>
+<em>Party cues are a well-established heuristic through which citizens navigate political life. Yet whether party cues signal conflict or consensus has received surprisingly little attention. This letter addresses this gap, leveraging a survey experiment manipulating conflict and consensus across four policy proposals among UK Labour and Conservative identifiers. In-party cues shift policy support under all conditions, but effects are consistently stronger under conflict. Notably, a single in-party cue produces effects comparable to explicit conflict, suggesting conflict may be the default citizens assume even when not explicitly stated. Analysis of open-ended responses reinforces this: conflict reasoning is pervasive across conditions, while consensus reasoning emerges almost exclusively when cross-party agreement is made explicit. Conflictual cues elicit more partisan reasoning while consensus cues shift attention toward policy substance. These findings have implications for how we design cue experiments and for the democratic role of parties as a source of political information.</em>
+</details>
+
+---
+
+**When Rivals Become Partners: Elite influence and its constraints in unexpected coalition announcements**  
+*Soon to be submitted*
+
+<details>
+<summary>[Abstract]</summary>
+<br>
+<em>Unexpected and unorthodox coalition formations are increasingly common in multiparty democracies. Yet we know little about how party supporters react to these coalitions, or how much influence political elites have in shaping those reactions. This study treats coalition announcements as elite signals, akin to party cues, and examines the reach and limits of elite influence. Leveraging real-world cases of unexpected coalition formation in the UK and Austria, I use quasi-experimental methods to estimate the short-term effects of coalition signals. Coalition signals significantly reshape supporters’ evaluations of new partners, but within limits. Parties rarely produce fundamental attitude changes, effects are weaker among supporters who previously disliked the new coalition partner, and coalition signals may generate immediate affective costs for supporters’ own parties. These findings show that parties have meaningful leeway in redefining political alliances, but that this leeway is constrained by supporters’ prior attitudes and affective backlash.</em>
+</details>
+
+---
+
+## Work in Progress
+
+**Beyond Backlash: How Out-party Cues Influence Citizens' Attitudes in Multiparty Systems**  
+*In preparation*
+
+---
+
+**Gendered Cue-Taking: How Men and Women Respond Differently to Party Signals**  
+*In preparation*  
+With: J. Schwenk
+
+---
+
+**The moderating role of in-party affect on the partisan gap in factual beliefs**  
+*In preparation*  
+With: L. Lungu
+
+---
+
+**Factual belief polarization among the electorate during times of low and high political competition**  
+*In preparation*  
+With: L. Lungu
