@@ -47,9 +47,11 @@ With: S. Cassel and S. Lundmark
 
 ---
 
-## Book Chapters
+## Book Chapters and Reports
 
 Magnusson, J. & Wärnlöf B., K. (2019). Kultur hit och kultur dit? I Carlander, A., Öhberg, P. & Mellander, E. (red) *Ingen kommer undan kulturen*. Göteborgs Universitet: SOM-institutet.
+
+Eken, A., Magnusson, J., Hildesson, A., Molnar, S., & De Fine Licht, K. (2019). Rätt verktyg för jobbet? En översikt över verktyg för social hållbarhetsanalys i städer. *Mistra Urban Futures Report* 2019:1.
 
 ---
 
