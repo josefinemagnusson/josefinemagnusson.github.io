@@ -80,7 +80,7 @@ With: A. Bawati, M. F. Gruneau, and J. Rickne
 <details>
 <summary>[Abstract]</summary>
 <br>
-<em>Add abstract here.</em>
+<em>Local political assemblies often perform essential political and governing functions. We introduce the Swedish Municipal Council Database (SMCD), which contains information on municipal council size and the number of elected councilors by gender and party family over a period of 100 years (1919–2018). We describe how this new database enables novel analysis of the development of democracy.</em>
 </details>
 
 ---
