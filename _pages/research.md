@@ -19,7 +19,7 @@ author_profile: true
 
 ---
 
-**Do Supporters Follow? Voter Constraints on Elite Influence in Unexpected Coalition Announcements**  
+**When Rivals Become Partners: Elite influence and its constraints in unexpected coalition announcements**  
 *Soon to be submitted*
 
 <details>
