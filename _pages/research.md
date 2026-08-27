@@ -19,18 +19,6 @@ author_profile: true
 
 ---
 
-**The nature of party cues: a theoretical and empirical investigation**  
-*Under review*  
-With: M. Agerberg
-
-<details>
-<summary>[Abstract]</summary>
-<br>
-<em>The question of why people are influenced by party cues is still heavily debated. We argue that lack of progress is partly the result of a too narrow, individual-centered, perspective on cue taking, resulting in weak links between theory and empirics. The dominant theories in the field make more nuanced predictions that are rarely considered jointly in empirical studies. We design a two-wave panel experiment, fielded during the 2022 Swedish election campaign, that is uniquely situated to test a large number of hypotheses about party cues in a real-life context. The results show that cue effects vary with many different factors at the individual, issue-specific, and political environment level, demonstrating the relevance of a dynamic perspective of cue taking. At the same time, our results show that existing theories are relatively poor at accounting for the type of patterns we find, pointing to a clear need for theoretical development.</em>
-</details>
-
----
-
 **Do Supporters Follow? Voter Constraints on Elite Influence in Unexpected Coalition Announcements**  
 *Soon to be submitted*
 
@@ -70,6 +58,19 @@ With: L. Lungu
 ---
 
 ## Publications
+
+**The nature of party cues: A theoretical and empirical investigation**  
+*Electoral Studies*, 103, 2026  
+With: M. Agerberg  
+[https://doi.org/10.1016/j.electstud.2026.103139](https://doi.org/10.1016/j.electstud.2026.103139) — open access
+
+<details>
+<summary>[Abstract]</summary>
+<br>
+<em>The question of why people are influenced by party cues is still heavily debated. We argue that lack of progress is partly the result of a too narrow, individual-centered, perspective on cue taking, resulting in weak links between theory and empirics. The dominant theories in the field make more nuanced predictions that are rarely considered jointly in empirical studies. We design a two-wave panel experiment, fielded during the 2022 Swedish election campaign, that is uniquely situated to test a large number of hypotheses about party cues in a real-life context. The results show that cue effects vary with many different factors at the individual, issue-specific, and political environment level, demonstrating the relevance of a dynamic perspective of cue taking. At the same time, our results show that existing theories are relatively poor at accounting for the type of patterns we find, pointing to a clear need for theoretical development.</em>
+</details>
+
+---
 
 **The Swedish historical municipal council database**  
 *Electoral Studies*, 95, 2025  
